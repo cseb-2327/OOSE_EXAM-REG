@@ -967,97 +967,97 @@
 										},
 										{
 											"_type": "UMLSeqMessageView",
-											"_id": "AAAAAAGb9g51fE5Xljk=",
+											"_id": "AAAAAAGcCCUlCG3wEus=",
 											"_parent": {
 												"$ref": "AAAAAAGb9eqN2kzmOwU="
 											},
 											"model": {
-												"$ref": "AAAAAAGb9g51fE5Wn64="
+												"$ref": "AAAAAAGcCCUlB23vXIE="
 											},
 											"subViews": [
 												{
 													"_type": "EdgeLabelView",
-													"_id": "AAAAAAGb9g51fE5Yywk=",
+													"_id": "AAAAAAGcCCUlCG3xYj8=",
 													"_parent": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"model": {
-														"$ref": "AAAAAAGb9g51fE5Wn64="
+														"$ref": "AAAAAAGcCCUlB23vXIE="
 													},
 													"font": "Times New Roman;15;0",
 													"parentStyle": false,
-													"left": 96,
-													"top": 252,
-													"width": 198.1953125,
+													"left": 109,
+													"top": 251,
+													"width": 179.15771484375,
 													"height": 15,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
 													"hostEdge": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"edgePosition": 1,
-													"text": "4 : Dispaly Registration details"
+													"text": "4 : Display Registration Form"
 												},
 												{
 													"_type": "EdgeLabelView",
-													"_id": "AAAAAAGb9g51fE5Z9SA=",
+													"_id": "AAAAAAGcCCUlCG3yVcM=",
 													"_parent": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"model": {
-														"$ref": "AAAAAAGb9g51fE5Wn64="
+														"$ref": "AAAAAAGcCCUlB23vXIE="
 													},
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 195,
-													"top": 268,
+													"left": 198,
+													"top": 267,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
 													"hostEdge": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"edgePosition": 1
 												},
 												{
 													"_type": "EdgeLabelView",
-													"_id": "AAAAAAGb9g51fU5aCAc=",
+													"_id": "AAAAAAGcCCUlCG3zTzQ=",
 													"_parent": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"model": {
-														"$ref": "AAAAAAGb9g51fE5Wn64="
+														"$ref": "AAAAAAGcCCUlB23vXIE="
 													},
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 196,
-													"top": 233,
+													"left": 199,
+													"top": 232,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
 													"hostEdge": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"edgePosition": 1
 												},
 												{
 													"_type": "UMLActivationView",
-													"_id": "AAAAAAGb9g51fU5bGiY=",
+													"_id": "AAAAAAGcCCUlCG306Yk=",
 													"_parent": {
-														"$ref": "AAAAAAGb9g51fE5Xljk="
+														"$ref": "AAAAAAGcCCUlCG3wEus="
 													},
 													"model": {
-														"$ref": "AAAAAAGb9g51fE5Wn64="
+														"$ref": "AAAAAAGcCCUlB23vXIE="
 													},
-													"visible": false,
+													"fillColor": "#689259",
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 97,
-													"top": 249,
+													"left": 90,
+													"top": 248,
 													"width": 14,
-													"height": 25
+													"height": 28
 												}
 											],
 											"font": "Arial;13;0",
@@ -1068,18 +1068,18 @@
 											"tail": {
 												"$ref": "AAAAAAGb9esVJE0hyZo="
 											},
-											"points": "294:249;98:249",
+											"points": "294:248;104:248",
 											"nameLabel": {
-												"$ref": "AAAAAAGb9g51fE5Yywk="
+												"$ref": "AAAAAAGcCCUlCG3xYj8="
 											},
 											"stereotypeLabel": {
-												"$ref": "AAAAAAGb9g51fE5Z9SA="
+												"$ref": "AAAAAAGcCCUlCG3yVcM="
 											},
 											"propertyLabel": {
-												"$ref": "AAAAAAGb9g51fU5aCAc="
+												"$ref": "AAAAAAGcCCUlCG3zTzQ="
 											},
 											"activation": {
-												"$ref": "AAAAAAGb9g51fU5bGiY="
+												"$ref": "AAAAAAGcCCUlCG306Yk="
 											}
 										},
 										{
@@ -1571,9 +1571,9 @@
 													},
 													"font": "Times New Roman;15;0",
 													"parentStyle": false,
-													"left": 401,
+													"left": 397,
 													"top": 451,
-													"width": 137.4755859375,
+													"width": 144.9755859375,
 													"height": 15,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -1833,18 +1833,17 @@
 								},
 								{
 									"_type": "UMLMessage",
-									"_id": "AAAAAAGb9g51fE5Wn64=",
+									"_id": "AAAAAAGcCCUlB23vXIE=",
 									"_parent": {
 										"$ref": "AAAAAAGb9eqN2kzlvuk="
 									},
-									"name": "Dispaly Registration details",
+									"name": "Display Registration Form",
 									"source": {
 										"$ref": "AAAAAAGb9esVJE0abFE="
 									},
 									"target": {
 										"$ref": "AAAAAAGb9erHnEz3Mrk="
-									},
-									"messageSort": "reply"
+									}
 								},
 								{
 									"_type": "UMLMessage",
