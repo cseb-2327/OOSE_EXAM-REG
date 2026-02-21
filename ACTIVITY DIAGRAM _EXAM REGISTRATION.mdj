@@ -290,6 +290,7 @@
 									"model": {
 										"$ref": "AAAAAAGcB10T7gU8+E8="
 									},
+									"fillColor": "#BFE0B6",
 									"font": "Times New Roman;15;0",
 									"parentStyle": false,
 									"containerChangeable": true,
@@ -1105,6 +1106,7 @@
 									"model": {
 										"$ref": "AAAAAAGcB2XOmwZXpAM="
 									},
+									"fillColor": "#C5E6B7",
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"containerChangeable": true,
@@ -1464,6 +1466,7 @@
 									"model": {
 										"$ref": "AAAAAAGcB2oiXwbGbIQ="
 									},
+									"fillColor": "#B6CEA9",
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"containerChangeable": true,
@@ -3696,6 +3699,77 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAGcB3UgPAjvc/o="
 									}
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGcf149wJTBOOM=",
+									"_parent": {
+										"$ref": "AAAAAAGcB1BkowTvojM="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 408,
+									"top": 352,
+									"width": 100,
+									"height": 25,
+									"text": "If Valid?"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGcf2DTqpTImFM=",
+									"_parent": {
+										"$ref": "AAAAAAGcB1BkowTvojM="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 400,
+									"top": 976,
+									"width": 100,
+									"height": 38,
+									"text": "Payment Successful?"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGcf2QLJZTOA8E=",
+									"_parent": {
+										"$ref": "AAAAAAGcB1BkowTvojM="
+									},
+									"fillColor": "#ACBF9E",
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 400,
+									"top": 1264,
+									"width": 100,
+									"height": 38,
+									"text": "Valid Application?"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGcf2RY5ZTTAcs=",
+									"_parent": {
+										"$ref": "AAAAAAGcB1BkowTvojM="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 528,
+									"top": 1256,
+									"width": 100,
+									"height": 25,
+									"text": "No"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGcf2R8PpTXnEo=",
+									"_parent": {
+										"$ref": "AAAAAAGcB1BkowTvojM="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 447,
+									"top": 1328,
+									"width": 100,
+									"height": 25,
+									"text": "Yes"
 								}
 							]
 						}
